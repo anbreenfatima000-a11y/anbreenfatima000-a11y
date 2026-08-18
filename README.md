@@ -7,7 +7,3 @@ Email Me **anbreenfatima000@gmail.com** For Collaboration/Project.
 
 
 (A Gesture Recognition software to control desktop applications)
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
