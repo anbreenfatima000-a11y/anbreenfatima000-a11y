@@ -7,4 +7,4 @@ Email Me **anbreenfatima000@gmail.com** For Collaboration/Project.
 - 🔭 **I’m currently working on:** My final year project
 
 
-(A Gesture Recognition software to control desktop applications)
+(A Context Aware Gesture Recognition software to control desktop applications)
